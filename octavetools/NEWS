@@ -1,0 +1,8 @@
+Summary of important user-visible changes for octavetools 1.0.0 (2021-02-14):
+----------------------------------------------------------
+
+ ** First release.
+
+ ** Added functions:
+
+      grep_file      grep_cell      file_into_cellstr

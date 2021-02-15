@@ -1,0 +1,12 @@
+Name: octavetools
+Version: 1.0.0
+Date: 2021-02-14
+Author: Tallis Huther da Costa <tallis.hcosta@gmail.com>
+Maintainer: Tallis Huther da Costa <tallis.hcosta@gmail.com>
+Title: Octave Tools
+Description: Set of tools to augment the text-processing capabilities of Octave.
+Depends: octave (>= 3.2.4)
+Autoload: no
+License: GPLv3+
+Url: http://octave.sf.net
+ https://github.com/jingls/octavetools
